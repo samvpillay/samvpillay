@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samvpillay
-- 👀 I’m interested in learning to be a better automation tester and developer
-- 🌱 I’m currently learning Java, Rest Assured, TypeScript, Cypress, C#
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in learning to be a better automation tester
+- 🌱 I’m currently improving my skils in C#, TypeScript, Cypress and REST Sharp
 - 📫 Find me on LinkedIn if you want to connect
 
 <!---
